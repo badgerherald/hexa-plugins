@@ -1,0 +1,3 @@
+[submodule "hrld-setup"]
+	path = hrld-setup
+	url = https://github.com/badgerherald/hrld-setup.git
