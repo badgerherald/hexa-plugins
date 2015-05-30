@@ -4,3 +4,6 @@
 [submodule "DoubleClick-for-WordPress"]
 	path = DoubleClick-for-WordPress
 	url = https://github.com/INN/DoubleClick-for-WordPress.git
+[submodule "hrld-media-credit"]
+	path = hrld-media-credit
+	url = https://github.com/badgerherald/hrld-media-credit
