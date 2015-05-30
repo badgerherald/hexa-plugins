@@ -1,3 +1,6 @@
 [submodule "hrld-setup"]
 	path = hrld-setup
 	url = https://github.com/badgerherald/hrld-setup.git
+[submodule "DoubleClick-for-WordPress"]
+	path = DoubleClick-for-WordPress
+	url = https://github.com/INN/DoubleClick-for-WordPress.git
